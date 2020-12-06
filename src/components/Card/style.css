@@ -1,0 +1,36 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: #303239;
+    border-radius: 10px;
+    border: 1px solid #30A7D7;
+    opacity: 0.7;
+    transition: 0.3s;
+    width: 90%;
+   
+}
+
+.Card:hover { opacity: 1;
+    box-shadow: 0 2px 6px 0 #1c7fa7, 0 3px 5px 0 #3d9bc0;}
+
+.Card_img {
+    text-align: center;
+    transition: transform .2s;
+    cursor: pointer; 
+}
+
+.Card_img:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+.Card_name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #E2E0DE;
+    margin-bottom: 10px;
+}
+
