@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokedex-challenge/static/css/main.4e9f4b65.chunk.css",
+    "main.js": "/pokedex-challenge/static/js/main.a70d6dee.chunk.js",
+    "main.js.map": "/pokedex-challenge/static/js/main.a70d6dee.chunk.js.map",
+    "runtime-main.js": "/pokedex-challenge/static/js/runtime-main.d1fcb125.js",
+    "runtime-main.js.map": "/pokedex-challenge/static/js/runtime-main.d1fcb125.js.map",
+    "static/js/2.7432f7ad.chunk.js": "/pokedex-challenge/static/js/2.7432f7ad.chunk.js",
+    "static/js/2.7432f7ad.chunk.js.map": "/pokedex-challenge/static/js/2.7432f7ad.chunk.js.map",
+    "index.html": "/pokedex-challenge/index.html",
+    "static/css/main.4e9f4b65.chunk.css.map": "/pokedex-challenge/static/css/main.4e9f4b65.chunk.css.map",
+    "static/js/2.7432f7ad.chunk.js.LICENSE.txt": "/pokedex-challenge/static/js/2.7432f7ad.chunk.js.LICENSE.txt",
+    "static/media/error.04785b4c.png": "/pokedex-challenge/static/media/error.04785b4c.png",
+    "static/media/loading.b7cd3e0a.gif": "/pokedex-challenge/static/media/loading.b7cd3e0a.gif",
+    "static/media/logo3.031432b8.png": "/pokedex-challenge/static/media/logo3.031432b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1fcb125.js",
+    "static/js/2.7432f7ad.chunk.js",
+    "static/css/main.4e9f4b65.chunk.css",
+    "static/js/main.a70d6dee.chunk.js"
+  ]
+}
