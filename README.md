@@ -1,3 +1,7 @@
+# Demo on GitHub pages:
+
+https://thiagord.github.io/pokedex-challenge/
+
 # Descrição do desafio:
 
 Implementar um catálogo de Pokémons em React utilizando a API http://pokeapi.co
